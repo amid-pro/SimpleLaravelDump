@@ -1,0 +1,20 @@
+{
+    "name": "amid.pro/simple-laravel-dump",
+    "description": "Simple dump of MySql/Sqlite/PostgreSql databases",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AmidPro\\SimpleLaravelDump\\": "src"
+        }
+    },
+	"extra":{
+        "laravel":{
+            "providers":[
+                "AmidPro\\SimpleLaravelDump\\SimpleLaravelDumpServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
