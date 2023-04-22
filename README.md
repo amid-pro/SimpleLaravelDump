@@ -1,5 +1,9 @@
 # SimpleLaravelDump
 
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/amid-pro/SimpleLaravelDump)
+![GitHub Release Date](https://img.shields.io/github/release-date/amid-pro/SimpleLaravelDump)
+![GitHub top language](https://img.shields.io/github/languages/top/amid-pro/SimpleLaravelDump)
+
 ## Introduction
 Simple dump of MySql/Sqlite/PostgreSql databases
 
