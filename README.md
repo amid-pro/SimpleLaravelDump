@@ -7,6 +7,11 @@
 ## Introduction
 Simple dump of MySql/Sqlite/PostgreSql databases
 
+## Install
+```php
+composer require amid.pro/simple-laravel-dump
+```
+
 ## Use
 
 ```php
